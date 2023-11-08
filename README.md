@@ -1,8 +1,3 @@
-```
-NAME: S.JAIGANESH
-REGISTER NO: 212222240037
-```
-
 # Experiment-08- Encoders-and-decoders 
 
 ### AIM: 
